@@ -1,2 +1,2 @@
 # Bootstrap
-Probando Bootstrap para practicar html y css
+Usamos Bootstrap para practicar HTML y CSS 
